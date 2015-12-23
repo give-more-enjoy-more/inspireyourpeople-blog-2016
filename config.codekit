@@ -285,6 +285,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/one-second-opportunities-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31219,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/one-second-opportunities-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/one-second-opportunities-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/our-new-name-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21120,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/our-new-name-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/our-new-name-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/are-you-coachable-1280x330.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -292,6 +314,28 @@
 		"initialSize": 116713,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/are-you-coachable-1280x330.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/are-you-coachable-1280x330.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/one-second-opportunities-1280x430.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 408859,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/one-second-opportunities-1280x430.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/one-second-opportunities-1280x430.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/our-new-name-1280x350.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49242,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/our-new-name-1280x350.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/our-new-name-1280x350.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -589,6 +633,28 @@
 		"initialSize": 144169,
 		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/are-you-coachable-open-graph-1200x630.png",
 		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/are-you-coachable-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/one-second-opportunities-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.21722e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/one-second-opportunities-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/one-second-opportunities-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/our-new-name-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8980,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/our-new-name-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/our-new-name-open-graph-1200x630.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

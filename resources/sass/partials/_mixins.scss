@@ -1,0 +1,33 @@
+@mixin box-shadow($top, $left, $blur, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $color;
+    -moz-box-shadow:inset $top $left $blur $color;
+    box-shadow:inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+
+@mixin box-sizing($option) {
+	-webkit-box-sizing: $option;
+		 -moz-box-sizing: $option;
+					box-sizing: $option;
+}
+
+@mixin transition($duration) {
+	-webkit-transition: $duration;
+			 -o-transition: $duration;
+		 -moz-transition: $duration;
+			-ms-transition: $duration;
+					transition: $duration ease-in-out;
+}
+
+@mixin transform-translateY($height) {
+	-webkit-transform: translateY($height);
+			 -o-transform: translateY($height);
+		 -moz-transform: translateY($height);
+			-ms-transform: translateY($height);
+					transform: translateY($height);
+}

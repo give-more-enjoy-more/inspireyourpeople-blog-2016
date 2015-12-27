@@ -123,6 +123,12 @@ a:active {
 a img {
   border: 0; }
 
+hr {
+  background-color: #ccc;
+  border: 0;
+  height: 1px;
+  margin-bottom: 3em; }
+
 /**
  * 03. - Typography
  *
@@ -180,6 +186,9 @@ p, ol, ul {
 b,
 strong {
   font-weight: 600; }
+
+em {
+  font-style: italic; }
 
 /* Brand Colors */
 .ctl-color {
@@ -495,7 +504,7 @@ p.error {
 
 /**
  * 06. - Header
- * 
+ *
  * Notes: Old code retrofitted to the new code base. Is sloppy and pieced together. I should look to rework SOON!
  */
 /* 06.01 - Top Navigation */
@@ -846,10 +855,27 @@ article {
   /* END .social-media-single-post-share */
   /* END .video-highlight */
   /* Post utility classes */
+  /* END .article-supporting-image */
+  /* END .inset-image */
   /* END .thumbnail-left-20-percent */ }
-  article figure img {
-    height: auto;
-    width: 80%; }
+  article blockquote {
+    margin-bottom: 2.5em;
+    position: relative; }
+    article blockquote p {
+      margin-bottom: 0.75em; }
+    article blockquote .author-attribute {
+      color: #666666;
+      font-size: 1.7em;
+      margin: -1em 0 2em;
+      text-align: right; }
+    article blockquote:before {
+      content: '\201C';
+      display: block;
+      font-size: 6em;
+      left: -0.5em;
+      position: absolute;
+      top: -0.33em;
+      font-family: "proxima-nova", Helvetica, Arial, sans-serif; }
   article header {
     margin-bottom: 4em;
     text-align: center; }
@@ -906,6 +932,9 @@ article {
   article .horizontal-offset {
     margin-left: -130px;
     margin-right: -130px; }
+  article .left-border-highlight {
+    border-left: 5px solid #1A80D3;
+    padding: 0.3em 0 0.3em 1em; }
   article .post-promotion {
     margin-bottom: 4em;
     text-align: center; }
@@ -916,6 +945,8 @@ article {
       display: inline-block;
       margin-left: 0.4em;
       vertical-align: middle; }
+    article .social-media-single-post-share.in-article {
+      margin: 1em 0 4em; }
   article .video-highlight .launch-modal {
     display: block;
     float: left;
@@ -926,6 +957,28 @@ article {
     float: right;
     text-align: left;
     width: 45%; }
+  article .article-supporting-image,
+  article .article-supporting-video {
+    margin-bottom: 3em;
+    /* END .widescreen */ }
+    article .article-supporting-image .full-width,
+    article .article-supporting-video .full-width {
+      height: auto;
+      width: 100%; }
+    article .article-supporting-image.widescreen,
+    article .article-supporting-video.widescreen {
+      height: 0;
+      width: 100%;
+      overflow: hidden;
+      position: relative;
+      padding-bottom: 56.25%; }
+      article .article-supporting-image.widescreen iframe,
+      article .article-supporting-video.widescreen iframe {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%; }
   article .bottom-border {
     border-bottom: 1px solid #555555;
     margin-bottom: 1em;
@@ -995,7 +1048,7 @@ article {
 .product-placement {
   border-bottom: 1px solid #E5E5E5;
   border-top: 1px solid #E5E5E5;
-  margin: 0 auto;
+  margin: 0 auto 2.5em;
   max-width: 960px;
   padding: 4em 0;
   text-align: center; }
@@ -1045,6 +1098,10 @@ article {
 
 /* END .product-placement */
 /* 08.03 - Specific Posts Formats */
+.post-id-45 .left-border-highlight {
+  border-color: #E6AA49; }
+
+/* SHINE */
 /* 08.06 - 404 */
 .error-404-lp {
   margin-bottom: 6em;
@@ -1063,6 +1120,7 @@ article {
 .category-lp {
   background: #E5E5E5;
   /* END header */
+  /* END .pagination */
   /* END .post */ }
   .category-lp .archive-header {
     background: #1A80D3;
@@ -1083,6 +1141,28 @@ article {
     background: #F2F2F2; }
   .category-lp .inner-container {
     width: 960px; }
+  .category-lp .pagination {
+    margin-bottom: 10em;
+    text-align: center; }
+    .category-lp .pagination .screen-reader-text {
+      display: none; }
+    .category-lp .pagination .nav-links {
+      font-size: 1.7em; }
+    .category-lp .pagination .page-numbers {
+      background: #1A80D3;
+      color: #FFF;
+      display: inline-block;
+      margin-right: 0.5em;
+      padding: 0.4em 0.9em;
+      text-decoration: none;
+      -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+      -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+      box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4); }
+      .category-lp .pagination .page-numbers.current {
+        background: #F2F2F2;
+        color: #555555; }
+      .category-lp .pagination .page-numbers:last-child {
+        margin-right: 0; }
   .category-lp .post {
     background: #FFF;
     margin: 0 auto 2em;

@@ -44,35 +44,46 @@
 							<?php
 								/* Initialize variables */
 								$post_id = get_the_ID();
-							
+
 								/* Brand specific form title and subtitle. */
 								switch($post_id):
-								
+
 									/* Monthly Calendars */
 									case 10:
 										$cta_button_copy = 'Get the calendars';
 										break;
-							
+
 									/* Salesday Counts */
 									case 125:
 										$cta_button_copy = 'Get the salesday charts';
 										break;
-							
+
 									default:
 										$cta_button_copy = 'Read more';
 										break;
-							
+
 								endswitch;
 							?>
-							
+
 							<p class="cta-btn"><a class="flat-btn" href="<?php echo get_permalink(); ?>"><?php echo $cta_button_copy ?></a></p>
-							
+
 						</div> <?php /* END .post-info */ ?>
 
 					</li>
 
 				<?php endwhile; ?>
 			</ol> <?php /* END .archive-post-list .inner-conatiner */ ?>
+
+
+			<?php
+				the_posts_pagination( array(
+					'mid_size' => 3,
+					'prev_text' => __( '&lang;', 'textdomain' ),
+					'next_text' => __( '&rang;', 'textdomain' ),
+					'screen_reader_text' => __( NULL )
+				) );
+			?>
+
 
 		<?php else : ?>
 

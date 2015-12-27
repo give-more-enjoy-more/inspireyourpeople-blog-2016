@@ -25,7 +25,7 @@
 
 						<h1 class="article-title" itemprop="name"><?php the_title(); ?></h1>
 
-						<?php if ( !is_single(array(10)) ): ?>
+						<?php if ( !is_single(array(43)) ): ?>
 							<p class="article-author">by <strong itemprop="author"><?php the_author() ?></strong></p>
 						<?php endif; ?>
 
@@ -43,12 +43,12 @@
 							/* Pulls in the social media share links */
 							include('resources/includes/social-media-single-post-share-footer.php'); ?>
 
-						<?php 
+						<?php
 							/* Put the post id in the if array to show the simplified copyright. */
 							if ( is_single(array(10)) ):
 								echo '<p class="copyright-and-links center-copy">Copyright &copy; by Give More Media Inc.</p>';
 							else:
-								echo '<p class="copyright-and-links">Copyright &copy; by Give More Media Inc. If you\'d like to tell people about this somewhere (e.g. blog, newsletter, Facebook, social media), please reference Sam Parker of GiveMore.com as the author and link directly to the article. Excerpts are great but please don\'t publish the article in its entirety without advanced written permission (email us at <a href="mailto:GoodThings@GiveMore.com?subject=reprint%20permission">GoodThings@GiveMore.com</a> with the subject line \'reprint permission\').</p>';
+								echo '<p class="copyright-and-links">Copyright &copy; by Give More Media Inc. If you\'d like to tell people about this somewhere (e.g. blog, newsletter, Facebook, social media), please reference Sam Parker of InspireYourPeople.com as the author and link directly to the article. Excerpts are great but please don\'t publish the article in its entirety without advanced written permission (email us at <a href="mailto:Hello@InspireYourPeople.com?subject=reprint%20permission">Hello@InspireYourPeople.com</a> with the subject line \'reprint permission\').</p>';
 							endif;
 						?>
 

@@ -113,6 +113,7 @@ p, ol, ul {
 b,
 strong {font-weight: $semibold-font-weight;}
 
+em{font-style:italic;}
 
 /* Brand Colors */
 .ctl-color{color:#BD2D2B;}
@@ -371,7 +372,7 @@ p.error {font-size: 1.8em;}
 
 .capture-container{
   padding: 3em 0;
-  position:relative; 
+  position:relative;
 
   .capture-content{position:relative; z-index:1;}
   .capture-content-form-container{
@@ -412,7 +413,7 @@ p.error {font-size: 1.8em;}
 
 /**
  * 06. - Header
- * 
+ *
  * Notes: Old code retrofitted to the new code base. Is sloppy and pieced together. I should look to rework SOON!
  */
 
@@ -529,7 +530,7 @@ p.error {font-size: 1.8em;}
   font-family:$primary-font-family;
   overflow:auto;
   padding:0.5em 0;
-  
+
   .inner-container{margin:0 auto; width:$desktop-medium-max-width;}
 
   .cart-icon{vertical-align:middle;}
@@ -620,9 +621,23 @@ article {
   /* max-width: $desktop-large-article-max-width; */
   /* width: $desktop-large-width-percentage; */
 
-  figure img{
-    height: auto;
-    width: 80%;
+  blockquote {
+    margin-bottom:2.5em;
+    position:relative;
+
+    p{margin-bottom:0.75em;}
+
+    .author-attribute{color:#666666; font-size:1.7em; margin:-1em 0 2em; text-align:right;}
+
+    &:before{
+      content:'\201C';
+      display:block;
+      font-size:6em;
+      left:-0.5em;
+      position:absolute;
+      top:-0.33em;
+      font-family:$primary-font-family;
+    }
   }
 
   header {
@@ -651,7 +666,7 @@ article {
   ul {list-style-type: circle;}
 
   .article-content{margin:0 auto; position:relative; width:700px;}
-  
+
   /* Font Classes */
   .article-author{color:$body-copy-gray; font-family:$secondary-font-family; font-size:1.6em; font-weight:$secondary-font-weight; margin-bottom:1em;}
   .article-highlight{background-color:#CBE6F8; padding:0.2em;}
@@ -670,6 +685,12 @@ article {
 
   .horizontal-offset{margin-left:-130px; margin-right:-130px;}
 
+  .left-border-highlight{
+    border-left: 5px solid $iyp-theme-blue;
+    padding: 0.3em 0 0.3em 1em;
+  }
+
+
   .post-promotion {
     margin-bottom: 4em;
     text-align: center;
@@ -680,6 +701,8 @@ article {
     text-align: center;
 
     a {display:inline-block; margin-left:0.4em; vertical-align:middle;}
+
+    &.in-article{margin:1em 0 4em;}
   } /* END .social-media-single-post-share */
 
   .video-highlight{
@@ -695,6 +718,29 @@ article {
   } /* END .video-highlight */
 
   /* Post utility classes */
+  .article-supporting-image,
+  .article-supporting-video,{
+    margin-bottom:3em;
+
+    .full-width{height:auto; width:100%;}
+
+    &.widescreen{
+      height:0;
+      width:100%;
+      overflow:hidden;
+      position:relative;
+      padding-bottom:56.25%;
+
+      iframe{
+        height:100%;
+        left:0;
+        position:absolute;
+        top:0;
+        width:100%;
+      }
+    } /* END .widescreen */
+  } /* END .article-supporting-image */
+
   .bottom-border {
     border-bottom: 1px solid $body-copy-black;
     margin-bottom: 1em;
@@ -725,8 +771,7 @@ article {
       &.list-offset{margin-left:-7em;}
     }
     &.right{float:right; margin:0 -5em 2em 1em;}
-
-  }
+  } /* END .inset-image */
 
   .thumbnail-left-20-percent, .thumbnail-left-33-percent {
     float: left;
@@ -741,7 +786,7 @@ article {
 
   .list-column{
     float:left;
-    margin-right:5%; 
+    margin-right:5%;
 
     &.forty{width:40%;}
     &.thirty{width:30%;}
@@ -759,7 +804,7 @@ article {
 .product-placement {
   border-bottom: 1px solid #E5E5E5;
   border-top: 1px solid #E5E5E5;
-  margin: 0 auto;
+  margin: 0 auto 2.5em;
   max-width: $desktop-medium-max-width;
   padding: 4em 0;
   text-align: center;
@@ -786,6 +831,7 @@ article {
 
 
 /* 08.03 - Specific Posts Formats */
+.post-id-45 .left-border-highlight {border-color:#E6AA49;} /* SHINE */
 
 
 /* 08.06 - 404 */
@@ -830,6 +876,26 @@ article {
   .footer-subscriber-acquisition{background:#F2F2F2;}
 
   .inner-container {width: $desktop-medium-max-width;}
+
+  .pagination{
+    margin-bottom:10em;
+    text-align:center;
+
+    .screen-reader-text{display:none;}
+    .nav-links{font-size:1.7em;}
+    .page-numbers{
+      background:$iyp-theme-blue;
+      color:#FFF;
+      display:inline-block;
+      margin-right:0.5em;
+      padding:0.4em 0.9em;
+      text-decoration:none;
+      @include box-shadow( 0, 1px, 5px, rgba(0, 0, 0, 0.4) );
+
+      &.current{background:#F2F2F2; color:$body-copy-black;}
+      &:last-child{margin-right:0;}
+    }
+  } /* END .pagination */
 
   .post {
     background: #FFF;

@@ -1,4 +1,4 @@
-<section class="social-media-single-post-share">
+<section class="social-media-single-post-share clear-both">
 	<p class="social-icons">
 
 		<?php

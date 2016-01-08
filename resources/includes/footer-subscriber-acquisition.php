@@ -94,7 +94,7 @@ function process_footer_subscriber_acquisition_form()
 			<section class="footer-subscriber-acquisition">
 				<div class="inner-container">
 					<h3 class=\"title\">Thanks for signing up!</h3>
-					<p class=\"subtitle\">Sam\'s emails will come from <a href="mailto:GoodThings@GiveMore.com">GoodThings@GiveMore.com</a>.</p>
+					<p class=\"subtitle\">Sam\'s emails will come from <a href="mailto:Hello@InspireYourPeople.com">Hello@InspireYourPeople.com</a>.</p>
 				</div>
 			</section>
 		';

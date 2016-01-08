@@ -46,9 +46,9 @@
 						<?php
 							/* Put the post id in the if array to show the simplified copyright. */
 							if ( is_single(array(10)) ):
-								echo '<p class="copyright-and-links center-copy">Copyright &copy; by Give More Media Inc.</p>';
+								echo '<p class="copyright-and-links center-copy">Copyright &copy; by InspireYourPeople.com.</p>';
 							else:
-								echo '<p class="copyright-and-links">Copyright &copy; by Give More Media Inc. If you\'d like to tell people about this somewhere (e.g. blog, newsletter, Facebook, social media), please reference Sam Parker of InspireYourPeople.com as the author and link directly to the article. Excerpts are great but please don\'t publish the article in its entirety without advanced written permission (email us at <a href="mailto:Hello@InspireYourPeople.com?subject=reprint%20permission">Hello@InspireYourPeople.com</a> with the subject line \'reprint permission\').</p>';
+								echo '<p class="copyright-and-links">Copyright &copy; by InspireYourPeople.com. If you\'d like to tell people about this somewhere (e.g. blog, newsletter, Facebook, social media), please reference Sam Parker of InspireYourPeople.com as the author and link directly to the article. Excerpts are great but please don\'t publish the article in its entirety without advanced written permission (email us at <a href="mailto:Hello@InspireYourPeople.com?subject=reprint%20permission">Hello@InspireYourPeople.com</a> with the subject line \'reprint permission\').</p>';
 							endif;
 						?>
 

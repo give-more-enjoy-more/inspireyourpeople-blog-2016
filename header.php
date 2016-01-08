@@ -66,7 +66,7 @@
 		include('resources/includes/social-media-meta.php'); ?>
 
 	<link rel="shortcut icon" href="<?php echo bloginfo('template_directory') ?>/resources/images/icons/throughout/favicon.ico" />
-	<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_url' ); ?>?=v100915">
+	<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_url' ); ?>?=v010816">
 
 	<!--[if lt IE 9]>
 		<script src="<?php echo bloginfo('template_directory') ?>/resources/js/html5shiv.min.js"></script>
@@ -74,9 +74,8 @@
 	<![endif]-->
 
 	<?php /* TypeKit Font Import */ ?>
-	<script src="//use.typekit.net/kgo5gai.js"></script>
+	<script src="https://use.typekit.net/olm3agc.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
-
 
 	<?php
 		/* Pulls in the analytics integrations */

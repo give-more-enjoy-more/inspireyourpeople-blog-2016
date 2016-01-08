@@ -166,7 +166,7 @@ $(document).ready(function() {
 
 			$.post(action, $(form).serialize(), function() {
 				$('.footer-subscriber-acquisition .inner-container').fadeOut(300, function(){
-					$('<div class="inner-container"><h3 class=\"title\">Thanks for signing up!</h3><p class=\"subtitle\">Sam\'s emails will come from <a href="mailto:GoodThings@GiveMore.com">GoodThings@GiveMore.com</a>.</p></div>').hide().appendTo('.footer-subscriber-acquisition').fadeIn(300);
+					$('<div class="inner-container"><h3 class=\"title\">Thanks for signing up!</h3><p class=\"subtitle\">Sam\'s emails will come from <a href="mailto:Hello@InspireYourPeople.com">Hello@InspireYourPeople.com</a>.</p></div>').hide().appendTo('.footer-subscriber-acquisition').fadeIn(300);
 				});
 
 				/* [ Trigger a Google Analytics Event if the visitor successfully signs up.  ] */

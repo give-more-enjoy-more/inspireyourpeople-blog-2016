@@ -10,7 +10,7 @@
 			<div class="current-customer-info">
 				
 				<p class="my-account">
-					<a href="http://www.givemore.com/login/">Sign In</a> / <a href="http://www.givemore.com/login/">Sign Up</a>
+					<a href="http://www.inspireyourpeople.com/login/">Sign In</a> / <a href="http://www.inspireyourpeople.com/login/">Sign Up</a>
 				</p>
 
 				<div class="search-form-container">
@@ -29,8 +29,8 @@
 	<div class="top-navigation">
 		<div class="inner-container">
 			
-			<a href="http://www.givemore.com/"><img class="gm-logo" src="http://www.givemore.com/themes/gmv3/resources/images/logos/header/givemore-logo-inspire-your-people-212x45.png" alt="GiveMore.com | Inspire Your People.&trade;" width="212" height="45" /></a>
-						
+			<a href="http://www.inspireyourpeople.com/"><img class="iyp-logo" src="http://www.inspireyourpeople.com/themes/gmv3/resources/images/logos/header/inspireyourpeople-logo-212x45.png" alt="InspireYourPeople.com" width="212" height="45" /></a>
+
 			<ul class="top-navigation-menu-items">
 				
 				<li class="menu-item">
@@ -124,7 +124,7 @@
 									<a class="reveal-brand-info-submenu avoid-follow-if-touch-device" href="/212-the-extra-degree/">212 the extra degree</a>
 									
 									<div class="brand-info-submenu">
-										<a class="nav-brand-teaser" href="/212-the-extra-degree/"><img src="http://www.givemore.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-212-245x155.png" alt="212 the extra degree" width="245" height="155" /></a>
+										<a class="nav-brand-teaser" href="/212-the-extra-degree/"><img src="http://www.inspireyourpeople.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-212-245x155.png" alt="212 the extra degree" width="245" height="155" /></a>
 									
 										<p class="nav-brand-description">212 the extra degree can help you inspire people to embrace the value of <strong class="tt-color">extra effort and attention</strong> that goes into creating great results.</p>
 										<p class="nav-brand-cta-btns"><a class="flat-btn tt-btn" href="/212-the-extra-degree/">Learn about 212&deg;</a> <a class="flat-btn flat-outline-btn tt-btn" href="/212-the-extra-degree-packages/">See packages</a> <a class="flat-btn flat-outline-btn tt-btn" href="/products/212-the-extra-degree/">Shop all</a></p>
@@ -135,7 +135,7 @@
 									<a class="reveal-brand-info-submenu avoid-follow-if-touch-device" href="/smile-and-move/">Smile &amp; Move</a>
 
 									<div class="brand-info-submenu">
-										<a class="nav-brand-teaser" href="/smile-and-move/"><img src="http://www.givemore.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-sm-245x155.png" alt="Smile &amp; Move" width="245" height="155" /></a>
+										<a class="nav-brand-teaser" href="/smile-and-move/"><img src="http://www.inspireyourpeople.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-sm-245x155.png" alt="Smile &amp; Move" width="245" height="155" /></a>
 
 										<p class="nav-brand-description">Smile &amp; Move can help you encourage people to be more <strong class="sm-color">positive and service-oriented</strong> in their efforts with customers and colleagues.</p>
 										<p class="nav-brand-cta-btns"><a class="flat-btn sm-btn" href="/smile-and-move/">Learn about Smile &amp; Move</a> <a class="flat-btn flat-outline-btn sm-btn" href="/smile-and-move-packages/">See packages</a> <a class="flat-btn flat-outline-btn sm-btn" href="/products/smile-and-move/">Shop all</a></p>
@@ -146,7 +146,7 @@
 									<a class="reveal-brand-info-submenu avoid-follow-if-touch-device" href="/cross-the-line/">Cross The Line</a>
 
 									<div class="brand-info-submenu">
-										<a class="nav-brand-teaser" href="/cross-the-line/"><img src="http://www.givemore.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-ctl-245x155.png" alt="Cross The Line" width="245" height="155" /></a>
+										<a class="nav-brand-teaser" href="/cross-the-line/"><img src="http://www.inspireyourpeople.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-ctl-245x155.png" alt="Cross The Line" width="245" height="155" /></a>
 
 										<p class="nav-brand-description">Cross The Line can help you <strong class="ctl-color">encourage</strong> people to <strong class="ctl-color">commit</strong> to going beyond <strong class="ctl-color">mediocrity</strong> in everything they do.</p>
 										<p class="nav-brand-cta-btns"><a class="flat-btn ctl-btn" href="/cross-the-line/">Learn about Cross The Line</a> <a class="flat-btn flat-outline-btn ctl-btn" href="/cross-the-line-packages/">See packages</a> <a class="flat-btn flat-outline-btn ctl-btn" href="/products/cross-the-line/">Shop all</a></p>
@@ -157,7 +157,7 @@
 									<a class="reveal-brand-info-submenu avoid-follow-if-touch-device" href="/love-your-people/">Love Your People</a>
 
 									<div class="brand-info-submenu">
-										<a class="nav-brand-teaser" href="/love-your-people/"><img src="http://www.givemore.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-lyp-245x155.png" alt="Love Your People" width="245" height="155" /></a>
+										<a class="nav-brand-teaser" href="/love-your-people/"><img src="http://www.inspireyourpeople.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-lyp-245x155.png" alt="Love Your People" width="245" height="155" /></a>
 
 										<p class="nav-brand-description">Love Your People can help you<br />encourage people to be <strong class="lyp-color">kinder</strong> and<br /><strong class="lyp-color">more accountable</strong> to each other and<br />the people they serve.</p>
 										<p class="nav-brand-cta-btns"><a class="flat-btn lyp-btn" href="/love-your-people/">Learn about Love Your People</a> <a class="flat-btn flat-outline-btn lyp-btn" href="/love-your-people-packages/">See packages</a> <a class="flat-btn flat-outline-btn lyp-btn" href="/products/love-your-people/">Shop all</a></p>
@@ -168,7 +168,7 @@
 									<a class="reveal-brand-info-submenu avoid-follow-if-touch-device" href="/lead-simply/">Lead Simply</a>
 
 									<div class="brand-info-submenu">
-										<a class="nav-brand-teaser" href="/lead-simply/"><img src="http://www.givemore.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-ls-245x155.png" alt="Lead [simply]" width="245" height="155" /></a>
+										<a class="nav-brand-teaser" href="/lead-simply/"><img src="http://www.inspireyourpeople.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-ls-245x155.png" alt="Lead [simply]" width="245" height="155" /></a>
 										
 										<p class="nav-brand-description">Lead Simply can help you inspire<br />leaders to focus on what's most important (and often missed) in creating a <strong class="ls-color">special team of people.</strong></p>
 										<p class="nav-brand-cta-btns"><a class="flat-btn ls-btn" href="/lead-simply/">Learn about Lead Simply</a> <a class="flat-btn flat-outline-btn ls-btn" href="/lead-simply-packages/">See packages</a> <a class="flat-btn flat-outline-btn ls-btn" href="/products/lead-simply/">Shop all</a></p>
@@ -179,7 +179,7 @@
 									<a class="reveal-brand-info-submenu avoid-follow-if-touch-device" href="/sales-tough/">SalesTough</a>
 
 									<div class="brand-info-submenu">
-										<a class="nav-brand-teaser" href="/sales-tough/"><img src="http://www.givemore.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-st-245x155.png" alt="SalesTough" width="245" height="155" /></a>
+										<a class="nav-brand-teaser" href="/sales-tough/"><img src="http://www.inspireyourpeople.com//themes/gmv3/resources/images/throughout/navigation/navigation-brand-st-245x155.png" alt="SalesTough" width="245" height="155" /></a>
 
 										<p class="nav-brand-description">SalesTough can help you create a sales team that's <strong class="st-color">focused, resilient, and results-oriented.</strong></p>
 										<p class="nav-brand-cta-btns"><a class="flat-btn st-btn" href="/sales-tough/">Learn about SalesTough</a> <a class="flat-btn flat-outline-btn st-btn" href="/salestough-packages/">See packages</a> <a class="flat-btn flat-outline-btn st-btn" href="/products/salestough/">Shop all</a></p>

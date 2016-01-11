@@ -40,7 +40,7 @@ function process_capture($captured_email, $captured_name = '', $capture_type = '
 	switch($capture_type):
 
 		case "book":
-			$capture_alt_source = 'gm-book-capture-' . $capture_id;
+			$capture_alt_source = 'iyp-book-capture-' . $capture_id;
 			break;
 
 		case "footer-subscriber-acquisition":
@@ -48,11 +48,11 @@ function process_capture($captured_email, $captured_name = '', $capture_type = '
 			break;
 
 		case "info":
-			$capture_alt_source = 'js-info-capture';
+			$capture_alt_source = 'iyp-info-capture';
 			break;
 
 		case "post-book-excerpt-request":
-			$capture_alt_source = 'js-post-'  . $capture_id . '-excerpt-request';
+			$capture_alt_source = 'iyp-post-'  . $capture_id . '-excerpt-request';
 			break;
 
 		case "post-content-capture":
@@ -60,19 +60,19 @@ function process_capture($captured_email, $captured_name = '', $capture_type = '
 			break;
 
 		case "post-etf-share":
-			$capture_alt_source = 'js-post-etf-capture';
+			$capture_alt_source = 'iyp-post-etf-capture';
 			break;
 
 		case "post-pdf-request":
-			$capture_alt_source = 'js-post-pdf-request-capture';
+			$capture_alt_source = 'iyp-post-pdf-request-capture';
 			break;
 
 		case "post-ppt-preview-request":
-			$capture_alt_source = 'js-post-'  . $capture_id . '-ppt-preview-request';
+			$capture_alt_source = 'iyp-post-'  . $capture_id . '-ppt-preview-request';
 			break;
 
 		case "video":
-			$capture_alt_source = 'js-video-capture-' . $capture_id;
+			$capture_alt_source = 'iyp-video-capture-' . $capture_id;
 			break;
 
 		default:
@@ -87,7 +87,7 @@ function process_capture($captured_email, $captured_name = '', $capture_type = '
 	$capture_email = $captured_email;
 	$capture_ip_address = $_SERVER['REMOTE_ADDR'];
 	$capture_name = !empty($captured_name) ? $captured_name : 'Everyone';
-	$capture_source = 'js-capture';
+	$capture_source = 'iyp-capture';
 
 	/* Write name, email, date, ip address, source, and alt aource to the master capture file */
 	$fp = fopen('/var/www/html/inspireyourpeople.com/wp-content/themes/inspireyourpeople/resources/docs/capture-docs/Master_Capture_List.txt', 'a');

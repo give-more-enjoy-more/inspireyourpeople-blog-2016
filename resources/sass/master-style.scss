@@ -123,6 +123,8 @@ em{font-style:italic;}
 .st-color{color:#D96C01;}
 .tt-color{color:#CF0A2C;}
 
+.iyp-color{color:$iyp-theme-blue;}
+
 
 /* 03.01 - Buttons */
 .flat-btn {
@@ -603,7 +605,7 @@ footer{
   p {font-size:1.6em; margin-bottom:0;}
   form {margin:1em 0 0;}
 
-  .inner-container{background:#F2F2F2; padding:5em 0; width:$desktop-large-max-width;}
+  .inner-container{background:#F2F2F2; padding:5em 0; max-width:$desktop-large-max-width; min-width:$desktop-medium-max-width;}
 } /* END footer-subscriber-acquisition */
 
 
@@ -669,6 +671,7 @@ article {
 
   /* Font Classes */
   .article-author{color:$body-copy-gray; font-family:$secondary-font-family; font-size:1.6em; font-weight:$secondary-font-weight; margin-bottom:1em;}
+  .article-emphasis-font-increase{font-size:1.3em;}
   .article-highlight{background-color:#CBE6F8; padding:0.2em;}
   .article-important-point{font-weight:$semibold-font-weight;}
   .article-intro{font-size:3em; font-weight:$medium-font-weight; line-height:1.2; margin-bottom:0.8em;}
@@ -689,7 +692,6 @@ article {
     border-left: 5px solid $iyp-theme-blue;
     padding: 0.3em 0 0.3em 1em;
   }
-
 
   .post-promotion {
     margin-bottom: 4em;
@@ -739,6 +741,27 @@ article {
         width:100%;
       }
     } /* END .widescreen */
+
+
+    &.widescreen, &.fullscreen{
+      height:0;
+      width:100%;
+      overflow:hidden;
+      position:relative;
+
+      iframe{
+        height:100%;
+        left:0;
+        position:absolute;
+        top:0;
+        width:100%;
+      }
+    } /* END .widescreen, .fullscreen */
+
+    &.widescreen{padding-bottom:56.25%;}
+    &.fullscreen{padding-bottom:75%;}
+
+
   } /* END .article-supporting-image */
 
   .bottom-border {
@@ -809,16 +832,18 @@ article {
   padding: 4em 0;
   text-align: center;
 
-  &.bottom-placement {margin-bottom: 0;}
-  &.no-border {border: none;}
-  &.no-padding {padding: 0;}
+  &.bottom-placement{margin-bottom:0;}
+  &.double-bottom-margin{margin-bottom:5em;}
+  &.no-border{border: none;}
+  &.no-padding{padding: 0;}
   &.offset-horizontal-margin{margin-left:-5em; margin-right:-5em;}
+  &.supporting-copy{font-size:1.62em; padding-top:0.5em;}
 
 	img{height: auto; width: 100%;}
   p{margin-bottom: 0;}
 
   .placement-title{color: $body-copy-black; font-size: 3.6em; font-weight: 600; margin-bottom: 0.7em; text-align: center;}
-  .extra-link-breathing-room{display: inline-block; margin-bottom: 2em;}
+  .extra-link-breathing-room{display:inline-block; margin-bottom:2em;}
 
   .cta-images a{color: $body-copy-black; text-decoration: none; text-align: center;}
   .cta-images a:hover{text-decoration: underline;}

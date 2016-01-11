@@ -209,6 +209,9 @@ em {
 .tt-color {
   color: #CF0A2C; }
 
+.iyp-color {
+  color: #1A80D3; }
+
 /* 03.01 - Buttons */
 .flat-btn {
   background: #1A80D3;
@@ -837,7 +840,8 @@ footer {
   .footer-subscriber-acquisition .inner-container {
     background: #F2F2F2;
     padding: 5em 0;
-    width: 1280px; }
+    max-width: 1280px;
+    min-width: 960px; }
 
 /* END footer-subscriber-acquisition */
 /**
@@ -908,6 +912,8 @@ article {
     font-size: 1.6em;
     font-weight: 300;
     margin-bottom: 1em; }
+  article .article-emphasis-font-increase {
+    font-size: 1.3em; }
   article .article-highlight {
     background-color: #CBE6F8;
     padding: 0.2em; }
@@ -960,7 +966,8 @@ article {
   article .article-supporting-image,
   article .article-supporting-video {
     margin-bottom: 3em;
-    /* END .widescreen */ }
+    /* END .widescreen */
+    /* END .widescreen, .fullscreen */ }
     article .article-supporting-image .full-width,
     article .article-supporting-video .full-width {
       height: auto;
@@ -979,6 +986,27 @@ article {
         position: absolute;
         top: 0;
         width: 100%; }
+    article .article-supporting-image.widescreen, article .article-supporting-image.fullscreen,
+    article .article-supporting-video.widescreen,
+    article .article-supporting-video.fullscreen {
+      height: 0;
+      width: 100%;
+      overflow: hidden;
+      position: relative; }
+      article .article-supporting-image.widescreen iframe, article .article-supporting-image.fullscreen iframe,
+      article .article-supporting-video.widescreen iframe,
+      article .article-supporting-video.fullscreen iframe {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%; }
+    article .article-supporting-image.widescreen,
+    article .article-supporting-video.widescreen {
+      padding-bottom: 56.25%; }
+    article .article-supporting-image.fullscreen,
+    article .article-supporting-video.fullscreen {
+      padding-bottom: 75%; }
   article .bottom-border {
     border-bottom: 1px solid #555555;
     margin-bottom: 1em;
@@ -1054,6 +1082,8 @@ article {
   text-align: center; }
   .product-placement.bottom-placement {
     margin-bottom: 0; }
+  .product-placement.double-bottom-margin {
+    margin-bottom: 5em; }
   .product-placement.no-border {
     border: none; }
   .product-placement.no-padding {
@@ -1061,6 +1091,9 @@ article {
   .product-placement.offset-horizontal-margin {
     margin-left: -5em;
     margin-right: -5em; }
+  .product-placement.supporting-copy {
+    font-size: 1.62em;
+    padding-top: 0.5em; }
   .product-placement img {
     height: auto;
     width: 100%; }

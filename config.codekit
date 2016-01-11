@@ -274,6 +274,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/2-ways-to-invite-good-things-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14743,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/2-ways-to-invite-good-things-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/2-ways-to-invite-good-things-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/a-reminder-to-think-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28217,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/a-reminder-to-think-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/a-reminder-to-think-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/addicted-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -340,6 +362,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/keeping-christmas-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12779,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/keeping-christmas-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/keeping-christmas-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/leadership-questions-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18529,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/leadership-questions-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/leadership-questions-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70897,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.png",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/offended-thumbnail-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24236,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/offended-thumbnail-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/offended-thumbnail-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/one-second-opportunities-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -355,9 +421,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 21120,
+		"initialSize": 18077,
 		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/our-new-name-170x170.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/our-new-name-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/shine-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12409,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/shine-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/shine-170x170.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -369,6 +446,28 @@
 		"initialSize": 10574,
 		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/work-ethic-170x170.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/work-ethic-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/2-ways-to-invite-good-things-1280x350.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43483,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/2-ways-to-invite-good-things-1280x350.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/2-ways-to-invite-good-things-1280x350.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/a-reminder-to-think-1280x450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303734,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/a-reminder-to-think-1280x450.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/a-reminder-to-think-1280x450.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -439,6 +538,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/keeping-christmas-1280x570.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 248668,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/keeping-christmas-1280x570.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/keeping-christmas-1280x570.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/leadership-questions-1280x450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103003,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/leadership-questions-1280x450.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/leadership-questions-1280x450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/learned-helplessness-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 329938,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/learned-helplessness-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/learned-helplessness-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/offended-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226070,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/offended-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/offended-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/one-second-opportunities-1280x430.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -454,9 +597,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 49242,
+		"initialSize": 133364,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/our-new-name-1280x350.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/our-new-name-1280x350.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/shine-1280x450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317668,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/shine-1280x450.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/shine-1280x450.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -468,6 +622,39 @@
 		"initialSize": 183393,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/work-ethic-1280x450.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/work-ethic-1280x450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/2-ways-to-invite-good-things\/cap-toe-oxford-star-outline-280x240.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29101,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/2-ways-to-invite-good-things\/cap-toe-oxford-star-outline-280x240.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/2-ways-to-invite-good-things\/cap-toe-oxford-star-outline-280x240.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/2-ways-to-invite-good-things\/dual-shoe-shine-stand-316x292.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50209,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/2-ways-to-invite-good-things\/dual-shoe-shine-stand-316x292.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/2-ways-to-invite-good-things\/dual-shoe-shine-stand-316x292.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/2-ways-to-invite-good-things\/shoe-shine-stand-tv-325x270.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47386,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/2-ways-to-invite-good-things\/shoe-shine-stand-tv-325x270.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/2-ways-to-invite-good-things\/shoe-shine-stand-tv-325x270.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -582,6 +769,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/supporting-images\/leadership-questions\/model-connect-involve-books-held-overlay-750x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167311,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/leadership-questions\/model-connect-involve-books-held-overlay-750x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/leadership-questions\/model-connect-involve-books-held-overlay-750x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/offended\/offended-definition-520x64.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31880,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/offended\/offended-definition-520x64.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/offended\/offended-definition-520x64.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/supporting-images\/shine\/expect-to-shine-750x125.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -597,7 +806,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 22785,
+		"initialSize": 24210,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/hungry-sign-155x150.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/hungry-sign-155x150.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -608,7 +817,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 19567,
+		"initialSize": 19329,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/ketchup-packet-160x125.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/ketchup-packet-160x125.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -622,6 +831,17 @@
 		"initialSize": 39151,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/picnic-table-315x165.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/picnic-table-315x165.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/shine\/picnic-table-325x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40707,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/picnic-table-325x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/picnic-table-325x170.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -901,6 +1121,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/a-reminder-to-think-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03841e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/a-reminder-to-think-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/a-reminder-to-think-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/addicted-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -967,6 +1198,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/keeping-christmas-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 393531,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/keeping-christmas-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/keeping-christmas-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/leadership-questions-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 327235,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/leadership-questions-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/leadership-questions-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/learned-helplessness-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 483828,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/learned-helplessness-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/learned-helplessness-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/offended-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 309226,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/offended-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/offended-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/one-second-opportunities-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -982,9 +1257,20 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8980,
+		"initialSize": 21953,
 		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/our-new-name-open-graph-1200x630.png",
 		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/our-new-name-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/shine-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 539173,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/shine-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/shine-open-graph-1200x630.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

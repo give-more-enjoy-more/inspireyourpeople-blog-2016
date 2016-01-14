@@ -274,6 +274,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/168-hours-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14921,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/168-hours-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/168-hours-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/2-ways-to-invite-good-things-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -340,6 +351,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/boring-work-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28121,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/boring-work-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/boring-work-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/boxing-it-up-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -351,6 +373,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/distraction-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17443,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/distraction-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/distraction-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/how-to-be-judged-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -358,6 +391,17 @@
 		"initialSize": 16630,
 		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/how-to-be-judged-170x170.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/how-to-be-judged-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/how-to-get-the-truth-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21283,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/how-to-get-the-truth-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/how-to-get-the-truth-170x170.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -384,13 +428,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.png": {
-		"fileType": 32768,
+	"\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 70897,
-		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.png",
-		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.png",
+		"initialSize": 12721,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -428,6 +472,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/part-of-you-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20832,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/part-of-you-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/part-of-you-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/sad-talk-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17604,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/sad-talk-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/sad-talk-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/shine-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -439,6 +505,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/stun-amaze-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25926,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/stun-amaze-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/stun-amaze-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/the-1st-thing-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17749,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/the-1st-thing-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/the-1st-thing-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/the-ultimate-mission-statement-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21251,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/the-ultimate-mission-statement-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/the-ultimate-mission-statement-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/work-ethic-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -446,6 +545,17 @@
 		"initialSize": 10574,
 		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/work-ethic-170x170.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/work-ethic-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/168-hours-1280x350.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61890,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/168-hours-1280x350.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/168-hours-1280x350.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -516,6 +626,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/boring-work-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 438926,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/boring-work-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/boring-work-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/boxing-it-up-1280x400.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -527,6 +648,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/distraction-1280x300.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90695,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/distraction-1280x300.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/distraction-1280x300.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/how-to-be-judged-1700x430.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -534,6 +666,17 @@
 		"initialSize": 87112,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/how-to-be-judged-1700x430.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/how-to-be-judged-1700x430.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/how-to-get-the-truth-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233630,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/how-to-get-the-truth-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/how-to-get-the-truth-1280x400.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -564,7 +707,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 329938,
+		"initialSize": 308010,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/learned-helplessness-1280x400.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/learned-helplessness-1280x400.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -604,6 +747,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/part-of-you-1280x450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 588221,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/part-of-you-1280x450.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/part-of-you-1280x450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/sad-talk-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99410,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/sad-talk-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/sad-talk-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/shine-1280x450.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -615,6 +780,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/stun-amaze-1280x475.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 438370,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/stun-amaze-1280x475.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/stun-amaze-1280x475.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/the-1st-thing-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 364945,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/the-1st-thing-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/the-1st-thing-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/the-ultimate-mission-statement-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 439484,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/the-ultimate-mission-statement-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/the-ultimate-mission-statement-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/work-ethic-1280x450.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -622,6 +820,17 @@
 		"initialSize": 183393,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/work-ethic-1280x450.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/work-ethic-1280x450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/168-hours\/drawn-hourglass-70x115.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11181,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/168-hours\/drawn-hourglass-70x115.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/168-hours\/drawn-hourglass-70x115.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -758,6 +967,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/supporting-images\/boring-work\/flushed-face-emoji-25x25.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5924,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/boring-work\/flushed-face-emoji-25x25.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/boring-work\/flushed-face-emoji-25x25.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/supporting-images\/how-to-be-judged\/drawn-pigeon-flappy-flap-145x145.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -787,6 +1007,28 @@
 		"initialSize": 31880,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/offended\/offended-definition-520x64.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/offended\/offended-definition-520x64.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/sad-talk\/drawn-is-it-friday-yet-sign-245x245.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23467,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/sad-talk\/drawn-is-it-friday-yet-sign-245x245.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/sad-talk\/drawn-is-it-friday-yet-sign-245x245.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/sad-talk\/social-media-locations-screen-iphone-held-300x427.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122475,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/sad-talk\/social-media-locations-screen-iphone-held-300x427.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/sad-talk\/social-media-locations-screen-iphone-held-300x427.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -864,6 +1106,28 @@
 		"initialSize": 26772,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/suggestion-box-175x165.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/shine\/suggestion-box-175x165.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/the-1st-thing\/content-divider-so-the-cycle-continues-700x100.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52109,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/the-1st-thing\/content-divider-so-the-cycle-continues-700x100.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/the-1st-thing\/content-divider-so-the-cycle-continues-700x100.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/the-1st-thing\/content-divider-the-answer-700x100.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48123,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/the-1st-thing\/content-divider-the-answer-700x100.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/the-1st-thing\/content-divider-the-answer-700x100.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1121,6 +1385,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/168-hours-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24714,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/168-hours-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/168-hours-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/2-ways-to-invite-good-things-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178564,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/2-ways-to-invite-good-things-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/2-ways-to-invite-good-things-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/a-reminder-to-think-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1176,6 +1462,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/boring-work-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.28647e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/boring-work-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/boring-work-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/boxing-it-up-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1187,6 +1484,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/distraction-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68368,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/distraction-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/distraction-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/how-to-be-judged-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1194,6 +1502,17 @@
 		"initialSize": 63698,
 		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/how-to-be-judged-open-graph-1200x630.png",
 		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/how-to-be-judged-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/how-to-get-the-truth-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 922983,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/how-to-get-the-truth-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/how-to-get-the-truth-open-graph-1200x630.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1224,7 +1543,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 483828,
+		"initialSize": 348027,
 		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/learned-helplessness-open-graph-1200x630.png",
 		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/learned-helplessness-open-graph-1200x630.png",
 		"outputPathIsOutsideProject": 0,
@@ -1264,6 +1583,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/part-of-you-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 895958,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/part-of-you-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/part-of-you-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/sad-talk-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84222,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/sad-talk-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/sad-talk-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/shine-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1271,6 +1612,39 @@
 		"initialSize": 539173,
 		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/shine-open-graph-1200x630.png",
 		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/shine-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/stun-amaze-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.1272e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/stun-amaze-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/stun-amaze-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/the-1st-thing-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.18367e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/the-1st-thing-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/the-1st-thing-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/the-ultimate-mission-statement-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 868700,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/the-ultimate-mission-statement-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/the-ultimate-mission-statement-open-graph-1200x630.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

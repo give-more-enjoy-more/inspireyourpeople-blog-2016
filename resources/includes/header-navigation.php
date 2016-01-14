@@ -34,17 +34,7 @@
 			<ul class="top-navigation-menu-items">
 				
 				<li class="menu-item">
-					<a href="/blog/sams-thoughts/" class="menu-item-link avoid-follow-if-touch-device">Blog</a>
-					
-					<div class="mini-submenu right-submenu">
-						<ul>
-							<li><a href="/blog/sams-thoughts/">Sam's Thoughts</a></li>
-							<li><a href="/blog/quotes/">Quotes (motivating &amp; thoughtful)</a></li>
-							<li><a href="/blog/tools/">Tools (useful stuff)</a></li>
-							<li><a href="/blog/videos/">Videos (inspiring &amp; moving)</a></li>
-							<li><a href="/blog/subscribe/">Subscribe</a></li>
-						</ul>
-					</div> <?php // END .mini-submenu .right-submenu ?>					
+					<a href="/inspiration/" class="menu-item-link avoid-follow-if-touch-device">Blog</a>				
 				</li> <?php // END .menu-item - Blog ?>
 
 

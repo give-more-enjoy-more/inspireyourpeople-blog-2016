@@ -78,8 +78,8 @@
 			<?php
 				the_posts_pagination( array(
 					'mid_size' => 3,
-					'prev_text' => __( '&lang;', 'textdomain' ),
-					'next_text' => __( '&rang;', 'textdomain' ),
+					'prev_text' => __( '&laquo;', 'textdomain' ),
+					'next_text' => __( '&raquo;', 'textdomain' ),
 					'screen_reader_text' => __( NULL )
 				) );
 			?>

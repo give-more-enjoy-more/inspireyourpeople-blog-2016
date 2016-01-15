@@ -1055,17 +1055,24 @@ article {
   article .inset-image.right {
     float: right;
     margin: 0 -5em 2em 1em; }
-  article .thumbnail-left-20-percent, article .thumbnail-left-33-percent {
+  article .thumbnail-left-20-percent, article .thumbnail-left-33-percent, article .thumbnail-left-50-percent {
     float: left;
     margin-bottom: 2em;
     padding: 0 2%; }
-    article .thumbnail-left-20-percent img, article .thumbnail-left-33-percent img {
+    article .thumbnail-left-20-percent img, article .thumbnail-left-33-percent img, article .thumbnail-left-50-percent img {
       height: auto;
       width: 100%; }
+    article .thumbnail-left-20-percent.printable-reminder, article .thumbnail-left-33-percent.printable-reminder, article .thumbnail-left-50-percent.printable-reminder {
+      font-size: 1.5em;
+      text-align: center; }
+      article .thumbnail-left-20-percent.printable-reminder img, article .thumbnail-left-33-percent.printable-reminder img, article .thumbnail-left-50-percent.printable-reminder img {
+        margin-bottom: 0.5em; }
   article .thumbnail-left-20-percent {
     width: 25%; }
   article .thumbnail-left-33-percent {
     width: 33%; }
+  article .thumbnail-left-50-percent {
+    width: 50%; }
   article .list-column {
     float: left;
     margin-right: 5%; }
@@ -1112,6 +1119,23 @@ article {
     width: 100%; }
   .product-placement p {
     margin-bottom: 0; }
+  .product-placement .product-image {
+    display: block;
+    float: left;
+    width: 210px; }
+  .product-placement .product-teaser-copy {
+    float: right;
+    padding-top: 2em;
+    text-align: left;
+    width: 460px; }
+    .product-placement .product-teaser-copy .flat-btn {
+      text-decoration: none; }
+    .product-placement .product-teaser-copy .title {
+      font-size: 2.5em;
+      margin-bottom: 0.5em; }
+    .product-placement .product-teaser-copy p {
+      font-size: 2em;
+      margin-bottom: 1em; }
   .product-placement .placement-title {
     color: #555555;
     font-size: 3.6em;
@@ -1151,16 +1175,25 @@ article {
   border-color: #E6AA49; }
 
 /* SHINE */
+/* 08.03 - Specific Page Formats */
+.subscribe-lp .engaging-header-image {
+  margin-bottom: 0; }
+
+.subscribe-lp .single-input-form {
+  text-align: left; }
+
+.subscribe-lp .single-input-form input[type="text"] {
+  width: 75%; }
+
+.subscribe-lp .page-subscriber-acquisition {
+  margin-bottom: 3em; }
+
 /* 08.06 - 404 */
 .error-404-lp {
   margin-bottom: 6em;
   text-align: center; }
 
 /* END .error-404-lp */
-/**
- * 09. - Homepage
- *
- */
 /**
  * 10. - Archive/Category
  *
@@ -1233,7 +1266,7 @@ article {
       margin-bottom: 1em; }
     .category-lp .post .post-info {
       float: right;
-      padding: 0.7em;
+      padding: 0 0.7em;
       width: 75%; }
     .category-lp .post .post-teaser-image {
       display: block;

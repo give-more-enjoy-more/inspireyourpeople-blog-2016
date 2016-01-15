@@ -373,6 +373,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/dave-matthews-et-al-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31096,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/dave-matthews-et-al-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/dave-matthews-et-al-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/distraction-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -417,13 +428,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/resources\/images\/in-category\/post-thumbnails\/leadership-questions-170x170.jpg": {
+	"\/resources\/images\/in-category\/post-thumbnails\/kid-president-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 18529,
-		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/leadership-questions-170x170.jpg",
-		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/leadership-questions-170x170.jpg",
+		"initialSize": 19229,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/kid-president-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/kid-president-170x170.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -435,6 +446,17 @@
 		"initialSize": 12721,
 		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/learned-helplessness-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/minimizing-the-grumps-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26255,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/minimizing-the-grumps-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/minimizing-the-grumps-170x170.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -483,6 +505,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/permission-to-be-kind-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8897,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/permission-to-be-kind-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/permission-to-be-kind-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/printable-monthly-calendars-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38722,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/printable-monthly-calendars-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/printable-monthly-calendars-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/printable-workday-charts-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59065,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/printable-workday-charts-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/printable-workday-charts-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/pushing-it-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32762,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/pushing-it-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/pushing-it-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/sad-talk-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -501,6 +567,28 @@
 		"initialSize": 12409,
 		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/shine-170x170.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/shine-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/smile-and-hire-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30204,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/smile-and-hire-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/smile-and-hire-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-category\/post-thumbnails\/smovish-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38122,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/smovish-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/smovish-170x170.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -527,6 +615,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/the-boss-complex-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34838,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/the-boss-complex-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/the-boss-complex-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/the-ultimate-mission-statement-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -538,6 +637,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-category\/post-thumbnails\/us-navy-seal-creed-170x170.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37053,
+		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/us-navy-seal-creed-170x170.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/us-navy-seal-creed-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-category\/post-thumbnails\/work-ethic-170x170.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -545,6 +655,17 @@
 		"initialSize": 10574,
 		"inputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/work-ethic-170x170.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-category\/post-thumbnails\/work-ethic-170x170.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-page\/engaging-headers\/subscribe-1280x230.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47751,
+		"inputAbbreviatedPath": "\/resources\/images\/in-page\/engaging-headers\/subscribe-1280x230.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-page\/engaging-headers\/subscribe-1280x230.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -648,6 +769,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/dave-matthews-et-al-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 310747,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/dave-matthews-et-al-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/dave-matthews-et-al-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/distraction-1280x300.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -655,6 +787,17 @@
 		"initialSize": 90695,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/distraction-1280x300.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/distraction-1280x300.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/fridays-and-mondays-1280x350.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180592,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/fridays-and-mondays-1280x350.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/fridays-and-mondays-1280x350.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -692,6 +835,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/kid-president-1280x350.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157328,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/kid-president-1280x350.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/kid-president-1280x350.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/leadership-questions-1280x450.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -710,6 +864,17 @@
 		"initialSize": 308010,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/learned-helplessness-1280x400.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/learned-helplessness-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/minimizing-the-grumps-1280x350.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 162490,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/minimizing-the-grumps-1280x350.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/minimizing-the-grumps-1280x350.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -758,6 +923,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/permission-to-be-kind-1280x300.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63033,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/permission-to-be-kind-1280x300.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/permission-to-be-kind-1280x300.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/printable-monthly-calendars-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 564030,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/printable-monthly-calendars-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/printable-monthly-calendars-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/printable-workday-charts-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 433994,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/printable-workday-charts-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/printable-workday-charts-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/pushing-it-1280x450.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 481507,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/pushing-it-1280x450.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/pushing-it-1280x450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/sad-talk-1280x400.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -776,6 +985,28 @@
 		"initialSize": 317668,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/shine-1280x450.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/shine-1280x450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/smile-and-hire-1280x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 707881,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/smile-and-hire-1280x400.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/smile-and-hire-1280x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/engaging-headers\/smovish-1280x300.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 506636,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/smovish-1280x300.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/smovish-1280x300.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -802,6 +1033,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/the-boss-complex-1280x350.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 229393,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/the-boss-complex-1280x350.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/the-boss-complex-1280x350.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/the-ultimate-mission-statement-1280x400.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -813,6 +1055,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/engaging-headers\/us-navy-seal-creed-1280x300.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104407,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/us-navy-seal-creed-1280x300.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/us-navy-seal-creed-1280x300.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/engaging-headers\/work-ethic-1280x450.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -820,6 +1073,17 @@
 		"initialSize": 183393,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/work-ethic-1280x450.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/engaging-headers\/work-ethic-1280x450.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/product-placements\/ls\/book-stack-210x210.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30636,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/product-placements\/ls\/book-stack-210x210.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/product-placements\/ls\/book-stack-210x210.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -978,6 +1242,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/supporting-images\/fridays-and-mondays\/tic-toc-gotham-216x42.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7353,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/fridays-and-mondays\/tic-toc-gotham-216x42.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/fridays-and-mondays\/tic-toc-gotham-216x42.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/fridays-and-mondays\/work-in-way-continually-thinking-of-ways-keep-you-550x375.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114951,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/fridays-and-mondays\/work-in-way-continually-thinking-of-ways-keep-you-550x375.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/fridays-and-mondays\/work-in-way-continually-thinking-of-ways-keep-you-550x375.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/supporting-images\/how-to-be-judged\/drawn-pigeon-flappy-flap-145x145.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1110,6 +1396,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/in-post\/supporting-images\/smovish\/smovish-sticker-250x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26252,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/smovish\/smovish-sticker-250x150.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/smovish\/smovish-sticker-250x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/in-post\/supporting-images\/the-1st-thing\/content-divider-so-the-cycle-continues-700x100.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1128,6 +1425,17 @@
 		"initialSize": 48123,
 		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/the-1st-thing\/content-divider-the-answer-700x100.jpg",
 		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/the-1st-thing\/content-divider-the-answer-700x100.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/in-post\/supporting-images\/the-boss-complex\/traffic-ticket-snippet-700x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143018,
+		"inputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/the-boss-complex\/traffic-ticket-snippet-700x150.jpg",
+		"outputAbbreviatedPath": "\/resources\/images\/in-post\/supporting-images\/the-boss-complex\/traffic-ticket-snippet-700x150.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1484,6 +1792,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/dave-matthews-et-al-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.07711e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/dave-matthews-et-al-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/dave-matthews-et-al-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/distraction-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1491,6 +1810,17 @@
 		"initialSize": 68368,
 		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/distraction-open-graph-1200x630.png",
 		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/distraction-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/fridays-and-mondays-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32604,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/fridays-and-mondays-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/fridays-and-mondays-open-graph-1200x630.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1528,6 +1858,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/kid-president-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 379722,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/kid-president-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/kid-president-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/leadership-questions-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1546,6 +1887,17 @@
 		"initialSize": 348027,
 		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/learned-helplessness-open-graph-1200x630.png",
 		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/learned-helplessness-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/minimizing-the-grumps-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 964513,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/minimizing-the-grumps-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/minimizing-the-grumps-open-graph-1200x630.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1594,6 +1946,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/permission-to-be-kind-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22032,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/permission-to-be-kind-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/permission-to-be-kind-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/printable-monthly-calendars-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.10198e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/printable-monthly-calendars-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/printable-monthly-calendars-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/printable-workday-charts-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.28784e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/printable-workday-charts-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/printable-workday-charts-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/pushing-it-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204531,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/pushing-it-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/pushing-it-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/sad-talk-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1612,6 +2008,28 @@
 		"initialSize": 539173,
 		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/shine-open-graph-1200x630.png",
 		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/shine-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/smile-and-hire-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.22544e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/smile-and-hire-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/smile-and-hire-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/smovish-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.12151e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/smovish-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/smovish-open-graph-1200x630.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1638,6 +2056,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/resources\/images\/social-media\/posts\/the-boss-complex-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 711623,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/the-boss-complex-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/the-boss-complex-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/resources\/images\/social-media\/posts\/the-ultimate-mission-statement-open-graph-1200x630.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1645,6 +2074,17 @@
 		"initialSize": 868700,
 		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/the-ultimate-mission-statement-open-graph-1200x630.png",
 		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/the-ultimate-mission-statement-open-graph-1200x630.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/images\/social-media\/posts\/us-navy-seal-creed-open-graph-1200x630.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.30831e+06,
+		"inputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/us-navy-seal-creed-open-graph-1200x630.png",
+		"outputAbbreviatedPath": "\/resources\/images\/social-media\/posts\/us-navy-seal-creed-open-graph-1200x630.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

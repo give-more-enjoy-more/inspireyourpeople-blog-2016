@@ -14,8 +14,11 @@
 		require_once('resources/includes/global-functions.php'); ?>
 
 	<?php
-		/* Pulls in the subscriber form and processing */
-		include('resources/includes/footer-subscriber-acquisition.php'); ?>
+		/* Pulls in the subscriber form and processing for every page except the subscribe page */
+		if(!is_page('subscribe')){
+			include('resources/includes/footer-subscriber-acquisition.php');
+		}
+	?>
 
 		<footer class="clear-fix">
 

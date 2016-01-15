@@ -11,23 +11,40 @@
  */
 ?>
 
+<?php
+	/* Pull in the generic global functions needed for this page. */
+	require_once('resources/includes/global-functions.php'); ?>
+
 <?php get_header(); ?>
 
-<main>
+<?php while ( have_posts() ) : the_post(); ?>
 
-	<?php
+	<main itemscope itemtype="http://schema.org/Article">
 
-		while ( have_posts() ) :
+		<div class="article-padding">
 
-			the_post();
+			<article itemprop="articleBody">
 
-			/* get_the_content() does not pass the content through the 'the_content'. This means that get_the_content() will not auto-embed videos or expand shortcodes, wrap with tags, etc. */
-			print get_the_content();
+				<header>
 
-		endwhile;
+					<?php if ( get_post_meta( get_the_ID(), 'engaging_header_image', true ) ) : ?>
+						<img class="engaging-header-image" src="<?php echo bloginfo('template_directory') . get_post_meta( get_the_ID(), 'engaging_header_image', true ); ?>" alt="<?php the_title(); ?>" />
+					<?php endif; ?>
 
-	?>
+				</header>
 
-</main>
+				<div class="article-content">
+
+					<?php the_content(); ?>
+
+				</div> <?php /* END .article-content */ ?>
+
+			</article>
+
+		</div> <?php /* END .article-padding */ ?>
+
+	</main>
+
+<?php endwhile; ?>
 
 <?php get_footer(); ?>

@@ -51,6 +51,10 @@ function process_capture($captured_email, $captured_name = '', $capture_type = '
 			$capture_alt_source = 'iyp-info-capture';
 			break;
 
+		case "page-subscriber-acquisition":
+			$capture_alt_source = 'iyp-blog-signup';
+			break;
+
 		case "post-book-excerpt-request":
 			$capture_alt_source = 'iyp-post-'  . $capture_id . '-excerpt-request';
 			break;

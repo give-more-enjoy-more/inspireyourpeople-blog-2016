@@ -60,8 +60,6 @@
 						/* Pulls in any post specific footer ads */
 						include('resources/includes/single-post-specific-product-promotions.php'); ?>
 
-
-
 			</div> <?php /* END .article-padding */ ?>
 
 		</main>

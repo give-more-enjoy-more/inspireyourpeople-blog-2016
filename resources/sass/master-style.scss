@@ -801,16 +801,22 @@ article {
     &.right{float:right; margin:0 -5em 2em 1em;}
   } /* END .inset-image */
 
-  .thumbnail-left-20-percent, .thumbnail-left-33-percent {
+  .thumbnail-left-20-percent, .thumbnail-left-33-percent, .thumbnail-left-50-percent {
     float: left;
     margin-bottom:2em;
     padding:0 2%;
 
     img {height: auto; width: 100%;}
+    &.printable-reminder{
+      font-size:1.5em;
+      text-align:center;
+      img{margin-bottom:0.5em;}
+    }
   } /* END .thumbnail-left-20-percent */
 
   .thumbnail-left-20-percent{width:25%;}
   .thumbnail-left-33-percent{width:33%;}
+  .thumbnail-left-50-percent{width:50%;}
 
   .list-column{
     float:left;
@@ -848,6 +854,15 @@ article {
 	img{height: auto; width: 100%;}
   p{margin-bottom: 0;}
 
+  .product-image{display:block; float:left; width:210px;}
+  .product-teaser-copy{
+    float:right; padding-top:2em; text-align:left; width:460px;
+
+    .flat-btn{text-decoration:none;}
+    .title{font-size:2.5em; margin-bottom:0.5em;}
+    p{font-size:2em; margin-bottom:1em;}
+  }
+
   .placement-title{color: $body-copy-black; font-size: 3.6em; font-weight: 600; margin-bottom: 0.7em; text-align: center;}
   .extra-link-breathing-room{display:inline-block; margin-bottom:2em;}
 
@@ -866,19 +881,18 @@ article {
 /* 08.03 - Specific Posts Formats */
 .post-id-45 .left-border-highlight {border-color:#E6AA49;} /* SHINE */
 
+/* 08.03 - Specific Page Formats */
+.subscribe-lp .engaging-header-image{margin-bottom:0;}
+.subscribe-lp .single-input-form{text-align:left;}
+.subscribe-lp .single-input-form input[type="text"]{width:75%;}
+.subscribe-lp .page-subscriber-acquisition{margin-bottom:3em;}
+
 
 /* 08.06 - 404 */
 .error-404-lp {
   margin-bottom: 6em;
   text-align: center;
 } /* END .error-404-lp */
-
-
-/**
- * 09. - Homepage
- *
- */
-
 
 
 /**
@@ -948,9 +962,9 @@ article {
     .post-excerpt {font-size: 1em; margin-bottom: 1em;}
 
     .post-info {
-      float: right;
-      padding: 0.7em;
-      width: 75%;
+      float:right;
+      padding:0 0.7em;
+      width:75%;
     }
 
     .post-teaser-image {
